@@ -1,0 +1,2488 @@
+[
+  {
+    "candidate_id": "C001",
+    "name": "Alex Morgan",
+    "experience_years": 5,
+    "skills": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "HTML/CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Customer portal",
+        "details": "Built a React and TypeScript customer portal used by 12,000 monthly users; improved page load time by 28%."
+      },
+      {
+        "name": "Design system",
+        "details": "Created reusable UI components and added unit tests."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "Frontend engineer with five years building accessible web applications.",
+    "resume_text": "Alex Morgan 5 years React, TypeScript, JavaScript, HTML/CSS, Git Built a React and TypeScript customer portal used by 12,000 monthly users; improved page load time by 28%. Created reusable UI components and added unit tests."
+  },
+  {
+    "candidate_id": "C002",
+    "name": "Jamie Patel",
+    "experience_years": 4,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "SQL",
+      "AWS"
+    ],
+    "projects": [
+      {
+        "name": "Operations dashboard",
+        "details": "Developed React dashboards and Node.js APIs for operations teams."
+      },
+      {
+        "name": "Cloud migration",
+        "details": "Supported AWS deployment and database query tuning."
+      }
+    ],
+    "education": "BEng Software Engineering",
+    "summary": "Full-stack developer with React delivery experience and backend exposure.",
+    "resume_text": "Jamie Patel 4 years React, JavaScript, Node.js, SQL, AWS Developed React dashboards and Node.js APIs for operations teams. Supported AWS deployment and database query tuning."
+  },
+  {
+    "candidate_id": "C003",
+    "name": "Taylor Brooks",
+    "experience_years": 3,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "JavaScript",
+      "Docker"
+    ],
+    "projects": [
+      {
+        "name": "E-commerce storefront",
+        "details": "Implemented Next.js and React storefront features with TypeScript."
+      },
+      {
+        "name": "Build pipeline",
+        "details": "Containerized local development and CI checks with Docker."
+      }
+    ],
+    "education": "BSc Information Technology",
+    "summary": "Frontend developer focused on modern React frameworks.",
+    "resume_text": "Taylor Brooks 3 years React, TypeScript, Next.js, JavaScript, Docker Implemented Next.js and React storefront features with TypeScript. Containerized local development and CI checks with Docker."
+  },
+  {
+    "candidate_id": "C004",
+    "name": "Jordan Kim",
+    "experience_years": 7,
+    "skills": [
+      "Python",
+      "Django",
+      "SQL",
+      "AWS",
+      "Docker",
+      "Leadership"
+    ],
+    "projects": [
+      {
+        "name": "Reporting service",
+        "details": "Built Django APIs and reporting workflows for finance operations."
+      },
+      {
+        "name": "Team mentorship",
+        "details": "Mentored three developers and coordinated sprint planning."
+      }
+    ],
+    "education": "MSc Information Systems",
+    "summary": "Backend engineer and team mentor; limited frontend evidence.",
+    "resume_text": "Jordan Kim 7 years Python, Django, SQL, AWS, Docker, Leadership Built Django APIs and reporting workflows for finance operations. Mentored three developers and coordinated sprint planning."
+  },
+  {
+    "candidate_id": "C005",
+    "name": "Sam Rivera",
+    "experience_years": 6,
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML/CSS",
+      "Git",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Accessibility refresh",
+        "details": "Improved keyboard navigation and screen-reader support in React pages."
+      },
+      {
+        "name": "Marketing site",
+        "details": "Maintained JavaScript UI components and collaborated with design."
+      }
+    ],
+    "education": "BA Digital Media",
+    "summary": "Frontend developer with strong accessibility and collaboration experience.",
+    "resume_text": "Sam Rivera 6 years JavaScript, React, HTML/CSS, Git, Communication Improved keyboard navigation and screen-reader support in React pages. Maintained JavaScript UI components and collaborated with design."
+  },
+  {
+    "candidate_id": "C006",
+    "name": "Morgan Chen",
+    "experience_years": 2,
+    "skills": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Internal admin tool",
+        "details": "Built React and TypeScript forms and table views"
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "Junior frontend engineer with direct React and TypeScript project experience.",
+    "resume_text": "Morgan Chen 2 years React, TypeScript, JavaScript, Git Built React and TypeScript forms and table views"
+  },
+  {
+    "candidate_id": "C007",
+    "name": "Casey Wilson",
+    "experience_years": 8,
+    "skills": [
+      "Java",
+      "SQL",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Leadership"
+    ],
+    "projects": [
+      {
+        "name": "Service platform",
+        "details": "Developed Java microservices and maintained Kubernetes deployments"
+      }
+    ],
+    "education": "BSc Computer Engineering",
+    "summary": "Senior backend/platform engineer with cloud infrastructure expertise.",
+    "resume_text": "Casey Wilson 8 years Java, SQL, AWS, Docker, Kubernetes, Leadership Developed Java microservices and maintained Kubernetes deployments"
+  },
+  {
+    "candidate_id": "C008",
+    "name": "Riley Ahmed",
+    "experience_years": 4,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "SQL",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Booking application",
+        "details": "Built responsive React and Next.js screens, with TypeScript types and SQL-backed APIs."
+      },
+      {
+        "name": "Product discovery",
+        "details": "Worked with product stakeholders to refine acceptance criteria."
+      }
+    ],
+    "education": "BSc Software Development",
+    "summary": "Product-minded frontend engineer with React, TypeScript and Next.js experience.",
+    "resume_text": "Riley Ahmed 4 years React, TypeScript, Next.js, SQL, Communication Built responsive React and Next.js screens, with TypeScript types and SQL-backed APIs. Worked with product stakeholders to refine acceptance criteria."
+  },
+  {
+    "candidate_id": "C009",
+    "name": "Drew Foster",
+    "experience_years": 5,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Machine Learning",
+      "PyTorch",
+      "SQL"
+    ],
+    "projects": [
+      {
+        "name": "Classification API",
+        "details": "Served a PyTorch text classifier through FastAPI"
+      }
+    ],
+    "education": "MSc Data Science",
+    "summary": "Machine learning engineer with API development experience.",
+    "resume_text": "Drew Foster 5 years Python, FastAPI, Machine Learning, PyTorch, SQL Served a PyTorch text classifier through FastAPI"
+  },
+  {
+    "candidate_id": "C010",
+    "name": "Avery Singh",
+    "experience_years": 3,
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML/CSS",
+      "Git",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Community site",
+        "details": "Implemented React components and responsive layouts."
+      },
+      {
+        "name": "Team delivery",
+        "details": "Worked with designers and QA to resolve UI defects."
+      }
+    ],
+    "education": "BSc Computing",
+    "summary": "Frontend developer with three years of React and UI delivery experience.",
+    "resume_text": "Avery Singh 3 years React, JavaScript, HTML/CSS, Git, Communication Implemented React components and responsive layouts. Worked with designers and QA to resolve UI defects."
+  },
+  {
+    "candidate_id": "C011",
+    "name": "Quinn Davis",
+    "experience_years": 4,
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "SQL",
+      "Docker",
+      "AWS"
+    ],
+    "projects": [
+      {
+        "name": "API service",
+        "details": "Built TypeScript Node.js services and deployed containers to AWS"
+      }
+    ],
+    "education": "BEng Computer Science",
+    "summary": "Backend-oriented TypeScript developer without stated React experience.",
+    "resume_text": "Quinn Davis 4 years TypeScript, Node.js, SQL, Docker, AWS Built TypeScript Node.js services and deployed containers to AWS"
+  },
+  {
+    "candidate_id": "C012",
+    "name": "Parker Lee",
+    "experience_years": 6,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Next.js",
+      "AWS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Content platform",
+        "details": "Maintained React and Next.js content workflows; supported AWS hosting."
+      }
+    ],
+    "education": "BSc Software Engineering",
+    "summary": "Frontend engineer experienced in content-heavy React applications.",
+    "resume_text": "Parker Lee 6 years React, JavaScript, Next.js, AWS, Git Maintained React and Next.js content workflows; supported AWS hosting."
+  },
+  {
+    "candidate_id": "C013",
+    "name": "Robin Bennett",
+    "experience_years": 1,
+    "skills": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "HTML/CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Customer analytics dashboard delivery",
+        "details": "Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Design-system migration automation",
+        "details": "Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "Frontend Engineer with 1 years of experience in React, TypeScript, JavaScript; project experience includes customer analytics dashboard and design-system migration.",
+    "resume_text": "Robin Bennett frontend engineer with 1 years of experience. Skills: React, TypeScript, JavaScript, HTML/CSS, Git. Customer analytics dashboard delivery: Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation. Design-system migration automation: Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C014",
+    "name": "Cameron Price",
+    "experience_years": 4,
+    "skills": [
+      "Vue.js",
+      "HTML/CSS",
+      "CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Retail storefront improvement",
+        "details": "Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Accessibility audit refresh",
+        "details": "Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Software Engineering",
+    "summary": "Frontend Developer with 4 years of experience in Vue.js, HTML/CSS, CSS; project experience includes retail storefront and accessibility audit.",
+    "resume_text": "Cameron Price frontend developer with 4 years of experience. Skills: Vue.js, HTML/CSS, CSS, Git. Retail storefront improvement: Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation. Accessibility audit refresh: Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C015",
+    "name": "Devon Watson",
+    "experience_years": 7,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Jest"
+    ],
+    "projects": [
+      {
+        "name": "Inventory dashboard platform",
+        "details": "Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API monitoring support",
+        "details": "Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Statistics",
+    "summary": "Full-Stack Developer with 7 years of experience in React, JavaScript, Node.js; project experience includes inventory dashboard and api monitoring.",
+    "resume_text": "Devon Watson full-stack developer with 7 years of experience. Skills: React, JavaScript, Node.js, Express, PostgreSQL, Jest. Inventory dashboard platform: Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation. API monitoring support: Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C016",
+    "name": "Harper Russell",
+    "experience_years": 10,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Order processing API initiative",
+        "details": "Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Container deployment upgrade",
+        "details": "Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Systems",
+    "summary": "Backend Engineer with 10 years of experience in Python, FastAPI, PostgreSQL; project experience includes order processing api and container deployment.",
+    "resume_text": "Harper Russell backend engineer with 10 years of experience. Skills: Python, FastAPI, PostgreSQL, Docker, AWS, Git. Order processing API initiative: Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation. Container deployment upgrade: Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C017",
+    "name": "Emerson Graham",
+    "experience_years": 4,
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Power BI",
+      "Excel"
+    ],
+    "projects": [
+      {
+        "name": "Sales reporting delivery",
+        "details": "Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Operations dashboard automation",
+        "details": "Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Software Engineering",
+    "summary": "Data Analyst with 4 years of experience in Python, SQL, Pandas; project experience includes sales reporting and operations dashboard.",
+    "resume_text": "Emerson Graham data analyst with 4 years of experience. Skills: Python, SQL, Pandas, Power BI, Excel. Sales reporting delivery: Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation. Operations dashboard automation: Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C018",
+    "name": "Finley Kapoor",
+    "experience_years": 7,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "SQL",
+      "MLflow"
+    ],
+    "projects": [
+      {
+        "name": "Demand forecasting improvement",
+        "details": "Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Model tracking refresh",
+        "details": "Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Business Analytics",
+    "summary": "Machine Learning Engineer with 7 years of experience in Python, PyTorch, SQL; project experience includes demand forecasting and model tracking.",
+    "resume_text": "Finley Kapoor machine learning engineer with 7 years of experience. Skills: Python, PyTorch, SQL, MLflow. Demand forecasting improvement: Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation. Model tracking refresh: Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C019",
+    "name": "Reese Patel",
+    "experience_years": 10,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux"
+    ],
+    "projects": [
+      {
+        "name": "Cloud environment setup platform",
+        "details": "Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Deployment reliability support",
+        "details": "Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "Cloud Engineer with 10 years of experience in AWS, Docker, Kubernetes; project experience includes cloud environment setup and deployment reliability.",
+    "resume_text": "Reese Patel cloud engineer with 10 years of experience. Skills: AWS, Docker, Kubernetes, Terraform, Linux. Cloud environment setup platform: Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation. Deployment reliability support: Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C020",
+    "name": "Skyler Bailey",
+    "experience_years": 3,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "Docker",
+      "JUnit",
+      "REST APIs"
+    ],
+    "projects": [
+      {
+        "name": "Customer service API initiative",
+        "details": "Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Database optimization upgrade",
+        "details": "Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Software Engineering",
+    "summary": "Java Backend Developer with 3 years of experience in Java, Spring Boot, SQL; project experience includes customer service api and database optimization.",
+    "resume_text": "Skyler Bailey java backend developer with 3 years of experience. Skills: Java, Spring Boot, SQL, Docker, JUnit, REST APIs. Customer service API initiative: Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation. Database optimization upgrade: Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C021",
+    "name": "Rowan Ross",
+    "experience_years": 7,
+    "skills": [
+      "Python",
+      "Selenium",
+      "pytest",
+      "API Testing",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Regression test suite delivery",
+        "details": "Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API quality checks automation",
+        "details": "Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Statistics",
+    "summary": "QA Automation Engineer with 7 years of experience in Python, Selenium, pytest; project experience includes regression test suite and api quality checks.",
+    "resume_text": "Rowan Ross qa automation engineer with 7 years of experience. Skills: Python, Selenium, pytest, API Testing, Git. Regression test suite delivery: Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation. API quality checks automation: Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C022",
+    "name": "Sage Flores",
+    "experience_years": 10,
+    "skills": [
+      "Kotlin",
+      "Java",
+      "REST APIs",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Mobile booking app improvement",
+        "details": "Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Offline handling refresh",
+        "details": "Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "Mobile Developer with 10 years of experience in Kotlin, Java, REST APIs; project experience includes mobile booking app and offline handling.",
+    "resume_text": "Sage Flores mobile developer with 10 years of experience. Skills: Kotlin, Java, REST APIs, Git. Mobile booking app improvement: Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation. Offline handling refresh: Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C023",
+    "name": "Dakota Ford",
+    "experience_years": 3,
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "A/B Testing",
+      "Excel",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Funnel analysis platform",
+        "details": "Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Experiment report support",
+        "details": "Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Applications",
+    "summary": "Product Analyst with 3 years of experience in SQL, Python, Tableau; project experience includes funnel analysis and experiment report.",
+    "resume_text": "Dakota Ford product analyst with 3 years of experience. Skills: SQL, Python, Tableau, A/B Testing, Excel, Git. Funnel analysis platform: Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation. Experiment report support: Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C024",
+    "name": "Kendall Rao",
+    "experience_years": 6,
+    "skills": [
+      "Linux",
+      "Docker",
+      "GitHub Actions",
+      "AWS",
+      "Bash"
+    ],
+    "projects": [
+      {
+        "name": "CI pipeline initiative",
+        "details": "Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Release automation upgrade",
+        "details": "Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Computer Engineering",
+    "summary": "DevOps Engineer with 6 years of experience in Linux, Docker, GitHub Actions; project experience includes ci pipeline and release automation.",
+    "resume_text": "Kendall Rao devops engineer with 6 years of experience. Skills: Linux, Docker, GitHub Actions, AWS, Bash. CI pipeline initiative: Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation. Release automation upgrade: Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C025",
+    "name": "Micah Patterson",
+    "experience_years": 10,
+    "skills": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "HTML/CSS",
+      "Git",
+      "Agile"
+    ],
+    "projects": [
+      {
+        "name": "Customer analytics dashboard delivery",
+        "details": "Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Design-system migration automation",
+        "details": "Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Technology",
+    "summary": "Frontend Engineer with 10 years of experience in React, TypeScript, JavaScript; project experience includes customer analytics dashboard and design-system migration.",
+    "resume_text": "Micah Patterson frontend engineer with 10 years of experience. Skills: React, TypeScript, JavaScript, HTML/CSS, Git, Agile. Customer analytics dashboard delivery: Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation. Design-system migration automation: Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C026",
+    "name": "Logan Perry",
+    "experience_years": 3,
+    "skills": [
+      "Vue.js",
+      "HTML/CSS",
+      "CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Retail storefront improvement",
+        "details": "Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Accessibility audit refresh",
+        "details": "Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Engineering",
+    "summary": "Frontend Developer with 3 years of experience in Vue.js, HTML/CSS, CSS; project experience includes retail storefront and accessibility audit.",
+    "resume_text": "Logan Perry frontend developer with 3 years of experience. Skills: Vue.js, HTML/CSS, CSS, Git. Retail storefront improvement: Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation. Accessibility audit refresh: Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C027",
+    "name": "Ari Cook",
+    "experience_years": 6,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "PostgreSQL"
+    ],
+    "projects": [
+      {
+        "name": "Inventory dashboard platform",
+        "details": "Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API monitoring support",
+        "details": "Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "MSc Data Science",
+    "summary": "Full-Stack Developer with 6 years of experience in React, JavaScript, Node.js; project experience includes inventory dashboard and api monitoring.",
+    "resume_text": "Ari Cook full-stack developer with 6 years of experience. Skills: React, JavaScript, Node.js, Express, PostgreSQL. Inventory dashboard platform: Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation. API monitoring support: Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C028",
+    "name": "Noel Long",
+    "experience_years": 9,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "projects": [
+      {
+        "name": "Order processing API initiative",
+        "details": "Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Container deployment upgrade",
+        "details": "Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "Backend Engineer with 9 years of experience in Python, FastAPI, PostgreSQL; project experience includes order processing api and container deployment.",
+    "resume_text": "Noel Long backend engineer with 9 years of experience. Skills: Python, FastAPI, PostgreSQL, Docker, AWS. Order processing API initiative: Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation. Container deployment upgrade: Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C029",
+    "name": "Payton Hayes",
+    "experience_years": 3,
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Power BI",
+      "Excel"
+    ],
+    "projects": [
+      {
+        "name": "Sales reporting delivery",
+        "details": "Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Operations dashboard automation",
+        "details": "Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Applications",
+    "summary": "Data Analyst with 3 years of experience in Python, SQL, Pandas; project experience includes sales reporting and operations dashboard.",
+    "resume_text": "Payton Hayes data analyst with 3 years of experience. Skills: Python, SQL, Pandas, Power BI, Excel. Sales reporting delivery: Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation. Operations dashboard automation: Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C030",
+    "name": "Remy Iyer",
+    "experience_years": 6,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "SQL",
+      "MLflow",
+      "CI/CD",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Demand forecasting improvement",
+        "details": "Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Model tracking refresh",
+        "details": "Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Computer Engineering",
+    "summary": "Machine Learning Engineer with 6 years of experience in Python, PyTorch, SQL; project experience includes demand forecasting and model tracking.",
+    "resume_text": "Remy Iyer machine learning engineer with 6 years of experience. Skills: Python, PyTorch, SQL, MLflow, CI/CD, Git. Demand forecasting improvement: Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation. Model tracking refresh: Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C031",
+    "name": "Shiloh Coleman",
+    "experience_years": 9,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux"
+    ],
+    "projects": [
+      {
+        "name": "Cloud environment setup platform",
+        "details": "Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Deployment reliability support",
+        "details": "Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Software Engineering",
+    "summary": "Cloud Engineer with 9 years of experience in AWS, Docker, Kubernetes; project experience includes cloud environment setup and deployment reliability.",
+    "resume_text": "Shiloh Coleman cloud engineer with 9 years of experience. Skills: AWS, Docker, Kubernetes, Terraform, Linux. Cloud environment setup platform: Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation. Deployment reliability support: Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C032",
+    "name": "Tatum Carter",
+    "experience_years": 2,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "Docker",
+      "JUnit"
+    ],
+    "projects": [
+      {
+        "name": "Customer service API initiative",
+        "details": "Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Database optimization upgrade",
+        "details": "Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Statistics",
+    "summary": "Java Backend Developer with 2 years of experience in Java, Spring Boot, SQL; project experience includes customer service api and database optimization.",
+    "resume_text": "Tatum Carter java backend developer with 2 years of experience. Skills: Java, Spring Boot, SQL, Docker, JUnit. Customer service API initiative: Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation. Database optimization upgrade: Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C033",
+    "name": "Bailey Ward",
+    "experience_years": 6,
+    "skills": [
+      "Python",
+      "Selenium",
+      "pytest",
+      "API Testing",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Regression test suite delivery",
+        "details": "Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API quality checks automation",
+        "details": "Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Systems",
+    "summary": "QA Automation Engineer with 6 years of experience in Python, Selenium, pytest; project experience includes regression test suite and api quality checks.",
+    "resume_text": "Bailey Ward qa automation engineer with 6 years of experience. Skills: Python, Selenium, pytest, API Testing, Git. Regression test suite delivery: Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation. API quality checks automation: Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C034",
+    "name": "Ellis Fisher",
+    "experience_years": 9,
+    "skills": [
+      "Kotlin",
+      "Java",
+      "REST APIs",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Mobile booking app improvement",
+        "details": "Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Offline handling refresh",
+        "details": "Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Software Engineering",
+    "summary": "Mobile Developer with 9 years of experience in Kotlin, Java, REST APIs; project experience includes mobile booking app and offline handling.",
+    "resume_text": "Ellis Fisher mobile developer with 9 years of experience. Skills: Kotlin, Java, REST APIs, Git. Mobile booking app improvement: Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation. Offline handling refresh: Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C035",
+    "name": "Jules Griffin",
+    "experience_years": 2,
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "A/B Testing",
+      "Excel",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Funnel analysis platform",
+        "details": "Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Experiment report support",
+        "details": "Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Business Analytics",
+    "summary": "Product Analyst with 2 years of experience in SQL, Python, Tableau; project experience includes funnel analysis and experiment report.",
+    "resume_text": "Jules Griffin product analyst with 2 years of experience. Skills: SQL, Python, Tableau, A/B Testing, Excel, Communication. Funnel analysis platform: Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation. Experiment report support: Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C036",
+    "name": "Marley Shah",
+    "experience_years": 5,
+    "skills": [
+      "Linux",
+      "Docker",
+      "GitHub Actions",
+      "AWS",
+      "Bash"
+    ],
+    "projects": [
+      {
+        "name": "CI pipeline initiative",
+        "details": "Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Release automation upgrade",
+        "details": "Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "DevOps Engineer with 5 years of experience in Linux, Docker, GitHub Actions; project experience includes ci pipeline and release automation.",
+    "resume_text": "Marley Shah devops engineer with 5 years of experience. Skills: Linux, Docker, GitHub Actions, AWS, Bash. CI pipeline initiative: Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation. Release automation upgrade: Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C037",
+    "name": "Nico Joshi",
+    "experience_years": 9,
+    "skills": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "HTML/CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Customer analytics dashboard delivery",
+        "details": "Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Design-system migration automation",
+        "details": "Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Software Engineering",
+    "summary": "Frontend Engineer with 9 years of experience in React, TypeScript, JavaScript; project experience includes customer analytics dashboard and design-system migration.",
+    "resume_text": "Nico Joshi frontend engineer with 9 years of experience. Skills: React, TypeScript, JavaScript, HTML/CSS, Git. Customer analytics dashboard delivery: Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation. Design-system migration automation: Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C038",
+    "name": "Alden Young",
+    "experience_years": 2,
+    "skills": [
+      "Vue.js",
+      "HTML/CSS",
+      "CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Retail storefront improvement",
+        "details": "Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Accessibility audit refresh",
+        "details": "Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Statistics",
+    "summary": "Frontend Developer with 2 years of experience in Vue.js, HTML/CSS, CSS; project experience includes retail storefront and accessibility audit.",
+    "resume_text": "Alden Young frontend developer with 2 years of experience. Skills: Vue.js, HTML/CSS, CSS, Git. Retail storefront improvement: Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation. Accessibility audit refresh: Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C039",
+    "name": "Blair Murphy",
+    "experience_years": 5,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "PostgreSQL"
+    ],
+    "projects": [
+      {
+        "name": "Inventory dashboard platform",
+        "details": "Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API monitoring support",
+        "details": "Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Systems",
+    "summary": "Full-Stack Developer with 5 years of experience in React, JavaScript, Node.js; project experience includes inventory dashboard and api monitoring.",
+    "resume_text": "Blair Murphy full-stack developer with 5 years of experience. Skills: React, JavaScript, Node.js, Express, PostgreSQL. Inventory dashboard platform: Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation. API monitoring support: Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C040",
+    "name": "Dylan James",
+    "experience_years": 8,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Redis"
+    ],
+    "projects": [
+      {
+        "name": "Order processing API initiative",
+        "details": "Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Container deployment upgrade",
+        "details": "Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Applications",
+    "summary": "Backend Engineer with 8 years of experience in Python, FastAPI, PostgreSQL; project experience includes order processing api and container deployment.",
+    "resume_text": "Dylan James backend engineer with 8 years of experience. Skills: Python, FastAPI, PostgreSQL, Docker, AWS, Redis. Order processing API initiative: Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation. Container deployment upgrade: Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C041",
+    "name": "Elliot Sullivan",
+    "experience_years": 2,
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Power BI",
+      "Excel"
+    ],
+    "projects": [
+      {
+        "name": "Sales reporting delivery",
+        "details": "Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Operations dashboard automation",
+        "details": "Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Computer Engineering",
+    "summary": "Data Analyst with 2 years of experience in Python, SQL, Pandas; project experience includes sales reporting and operations dashboard.",
+    "resume_text": "Elliot Sullivan data analyst with 2 years of experience. Skills: Python, SQL, Pandas, Power BI, Excel. Sales reporting delivery: Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation. Operations dashboard automation: Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C042",
+    "name": "Frankie Hamilton",
+    "experience_years": 5,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "SQL",
+      "MLflow"
+    ],
+    "projects": [
+      {
+        "name": "Demand forecasting improvement",
+        "details": "Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Model tracking refresh",
+        "details": "Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Technology",
+    "summary": "Machine Learning Engineer with 5 years of experience in Python, PyTorch, SQL; project experience includes demand forecasting and model tracking.",
+    "resume_text": "Frankie Hamilton machine learning engineer with 5 years of experience. Skills: Python, PyTorch, SQL, MLflow. Demand forecasting improvement: Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation. Model tracking refresh: Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C043",
+    "name": "Gray Mehta",
+    "experience_years": 8,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux"
+    ],
+    "projects": [
+      {
+        "name": "Cloud environment setup platform",
+        "details": "Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Deployment reliability support",
+        "details": "Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Engineering",
+    "summary": "Cloud Engineer with 8 years of experience in AWS, Docker, Kubernetes; project experience includes cloud environment setup and deployment reliability.",
+    "resume_text": "Gray Mehta cloud engineer with 8 years of experience. Skills: AWS, Docker, Kubernetes, Terraform, Linux. Cloud environment setup platform: Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation. Deployment reliability support: Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C044",
+    "name": "Indigo Sharma",
+    "experience_years": 1,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "Docker",
+      "JUnit",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Customer service API initiative",
+        "details": "Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Database optimization upgrade",
+        "details": "Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "MSc Data Science",
+    "summary": "Java Backend Developer with 1 years of experience in Java, Spring Boot, SQL; project experience includes customer service api and database optimization.",
+    "resume_text": "Indigo Sharma java backend developer with 1 years of experience. Skills: Java, Spring Boot, SQL, Docker, JUnit, Git. Customer service API initiative: Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation. Database optimization upgrade: Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C045",
+    "name": "Kai Cooper",
+    "experience_years": 5,
+    "skills": [
+      "Python",
+      "Selenium",
+      "pytest",
+      "API Testing",
+      "Git",
+      "Jest"
+    ],
+    "projects": [
+      {
+        "name": "Regression test suite delivery",
+        "details": "Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API quality checks automation",
+        "details": "Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "QA Automation Engineer with 5 years of experience in Python, Selenium, pytest; project experience includes regression test suite and api quality checks.",
+    "resume_text": "Kai Cooper qa automation engineer with 5 years of experience. Skills: Python, Selenium, pytest, API Testing, Git, Jest. Regression test suite delivery: Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation. API quality checks automation: Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C046",
+    "name": "Lane Kelly",
+    "experience_years": 8,
+    "skills": [
+      "Kotlin",
+      "Java",
+      "REST APIs",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Mobile booking app improvement",
+        "details": "Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Offline handling refresh",
+        "details": "Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Applications",
+    "summary": "Mobile Developer with 8 years of experience in Kotlin, Java, REST APIs; project experience includes mobile booking app and offline handling.",
+    "resume_text": "Lane Kelly mobile developer with 8 years of experience. Skills: Kotlin, Java, REST APIs, Git. Mobile booking app improvement: Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation. Offline handling refresh: Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C047",
+    "name": "Milan Hughes",
+    "experience_years": 1,
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "A/B Testing",
+      "Excel"
+    ],
+    "projects": [
+      {
+        "name": "Funnel analysis platform",
+        "details": "Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Experiment report support",
+        "details": "Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Computer Engineering",
+    "summary": "Product Analyst with 1 years of experience in SQL, Python, Tableau; project experience includes funnel analysis and experiment report.",
+    "resume_text": "Milan Hughes product analyst with 1 years of experience. Skills: SQL, Python, Tableau, A/B Testing, Excel. Funnel analysis platform: Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation. Experiment report support: Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C048",
+    "name": "Oakley Myers",
+    "experience_years": 4,
+    "skills": [
+      "Linux",
+      "Docker",
+      "GitHub Actions",
+      "AWS",
+      "Bash"
+    ],
+    "projects": [
+      {
+        "name": "CI pipeline initiative",
+        "details": "Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Release automation upgrade",
+        "details": "Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Technology",
+    "summary": "DevOps Engineer with 4 years of experience in Linux, Docker, GitHub Actions; project experience includes ci pipeline and release automation.",
+    "resume_text": "Oakley Myers devops engineer with 4 years of experience. Skills: Linux, Docker, GitHub Actions, AWS, Bash. CI pipeline initiative: Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation. Release automation upgrade: Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C049",
+    "name": "Phoenix Das",
+    "experience_years": 8,
+    "skills": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "HTML/CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Customer analytics dashboard delivery",
+        "details": "Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Design-system migration automation",
+        "details": "Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Statistics",
+    "summary": "Frontend Engineer with 8 years of experience in React, TypeScript, JavaScript; project experience includes customer analytics dashboard and design-system migration.",
+    "resume_text": "Phoenix Das frontend engineer with 8 years of experience. Skills: React, TypeScript, JavaScript, HTML/CSS, Git. Customer analytics dashboard delivery: Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation. Design-system migration automation: Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C050",
+    "name": "River Jenkins",
+    "experience_years": 1,
+    "skills": [
+      "Vue.js",
+      "HTML/CSS",
+      "CSS",
+      "Git",
+      "REST APIs"
+    ],
+    "projects": [
+      {
+        "name": "Retail storefront improvement",
+        "details": "Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Accessibility audit refresh",
+        "details": "Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Systems",
+    "summary": "Frontend Developer with 1 years of experience in Vue.js, HTML/CSS, CSS; project experience includes retail storefront and accessibility audit.",
+    "resume_text": "River Jenkins frontend developer with 1 years of experience. Skills: Vue.js, HTML/CSS, CSS, Git, REST APIs. Retail storefront improvement: Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation. Accessibility audit refresh: Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C051",
+    "name": "Salem Reed",
+    "experience_years": 4,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Inventory dashboard platform",
+        "details": "Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API monitoring support",
+        "details": "Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Software Engineering",
+    "summary": "Full-Stack Developer with 4 years of experience in React, JavaScript, Node.js; project experience includes inventory dashboard and api monitoring.",
+    "resume_text": "Salem Reed full-stack developer with 4 years of experience. Skills: React, JavaScript, Node.js, Express, PostgreSQL, Git. Inventory dashboard platform: Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation. API monitoring support: Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C052",
+    "name": "Teagan Bell",
+    "experience_years": 7,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "projects": [
+      {
+        "name": "Order processing API initiative",
+        "details": "Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Container deployment upgrade",
+        "details": "Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Business Analytics",
+    "summary": "Backend Engineer with 7 years of experience in Python, FastAPI, PostgreSQL; project experience includes order processing api and container deployment.",
+    "resume_text": "Teagan Bell backend engineer with 7 years of experience. Skills: Python, FastAPI, PostgreSQL, Docker, AWS. Order processing API initiative: Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation. Container deployment upgrade: Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C053",
+    "name": "Uma Powell",
+    "experience_years": 1,
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Power BI",
+      "Excel"
+    ],
+    "projects": [
+      {
+        "name": "Sales reporting delivery",
+        "details": "Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Operations dashboard automation",
+        "details": "Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "Data Analyst with 1 years of experience in Python, SQL, Pandas; project experience includes sales reporting and operations dashboard.",
+    "resume_text": "Uma Powell data analyst with 1 years of experience. Skills: Python, SQL, Pandas, Power BI, Excel. Sales reporting delivery: Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation. Operations dashboard automation: Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C054",
+    "name": "Val Diaz",
+    "experience_years": 4,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "SQL",
+      "MLflow"
+    ],
+    "projects": [
+      {
+        "name": "Demand forecasting improvement",
+        "details": "Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Model tracking refresh",
+        "details": "Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Software Engineering",
+    "summary": "Machine Learning Engineer with 4 years of experience in Python, PyTorch, SQL; project experience includes demand forecasting and model tracking.",
+    "resume_text": "Val Diaz machine learning engineer with 4 years of experience. Skills: Python, PyTorch, SQL, MLflow. Demand forecasting improvement: Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation. Model tracking refresh: Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C055",
+    "name": "Winter Nair",
+    "experience_years": 7,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "Agile"
+    ],
+    "projects": [
+      {
+        "name": "Cloud environment setup platform",
+        "details": "Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Deployment reliability support",
+        "details": "Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Statistics",
+    "summary": "Cloud Engineer with 7 years of experience in AWS, Docker, Kubernetes; project experience includes cloud environment setup and deployment reliability.",
+    "resume_text": "Winter Nair cloud engineer with 7 years of experience. Skills: AWS, Docker, Kubernetes, Terraform, Linux, Agile. Cloud environment setup platform: Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation. Deployment reliability support: Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C056",
+    "name": "Yael Turner",
+    "experience_years": 10,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "Docker",
+      "JUnit"
+    ],
+    "projects": [
+      {
+        "name": "Customer service API initiative",
+        "details": "Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Database optimization upgrade",
+        "details": "Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Systems",
+    "summary": "Java Backend Developer with 10 years of experience in Java, Spring Boot, SQL; project experience includes customer service api and database optimization.",
+    "resume_text": "Yael Turner java backend developer with 10 years of experience. Skills: Java, Spring Boot, SQL, Docker, JUnit. Customer service API initiative: Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation. Database optimization upgrade: Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C057",
+    "name": "Robin Carter",
+    "experience_years": 4,
+    "skills": [
+      "Python",
+      "Selenium",
+      "pytest",
+      "API Testing",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Regression test suite delivery",
+        "details": "Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API quality checks automation",
+        "details": "Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Software Engineering",
+    "summary": "QA Automation Engineer with 4 years of experience in Python, Selenium, pytest; project experience includes regression test suite and api quality checks.",
+    "resume_text": "Robin Carter qa automation engineer with 4 years of experience. Skills: Python, Selenium, pytest, API Testing, Git. Regression test suite delivery: Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation. API quality checks automation: Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C058",
+    "name": "Cameron Ward",
+    "experience_years": 7,
+    "skills": [
+      "Kotlin",
+      "Java",
+      "REST APIs",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Mobile booking app improvement",
+        "details": "Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Offline handling refresh",
+        "details": "Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Computer Engineering",
+    "summary": "Mobile Developer with 7 years of experience in Kotlin, Java, REST APIs; project experience includes mobile booking app and offline handling.",
+    "resume_text": "Cameron Ward mobile developer with 7 years of experience. Skills: Kotlin, Java, REST APIs, Git. Mobile booking app improvement: Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation. Offline handling refresh: Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C059",
+    "name": "Devon Fisher",
+    "experience_years": 10,
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "A/B Testing",
+      "Excel"
+    ],
+    "projects": [
+      {
+        "name": "Funnel analysis platform",
+        "details": "Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Experiment report support",
+        "details": "Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Technology",
+    "summary": "Product Analyst with 10 years of experience in SQL, Python, Tableau; project experience includes funnel analysis and experiment report.",
+    "resume_text": "Devon Fisher product analyst with 10 years of experience. Skills: SQL, Python, Tableau, A/B Testing, Excel. Funnel analysis platform: Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation. Experiment report support: Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C060",
+    "name": "Harper Griffin",
+    "experience_years": 3,
+    "skills": [
+      "Linux",
+      "Docker",
+      "GitHub Actions",
+      "AWS",
+      "Bash",
+      "CI/CD"
+    ],
+    "projects": [
+      {
+        "name": "CI pipeline initiative",
+        "details": "Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Release automation upgrade",
+        "details": "Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Engineering",
+    "summary": "DevOps Engineer with 3 years of experience in Linux, Docker, GitHub Actions; project experience includes ci pipeline and release automation.",
+    "resume_text": "Harper Griffin devops engineer with 3 years of experience. Skills: Linux, Docker, GitHub Actions, AWS, Bash, CI/CD. CI pipeline initiative: Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation. Release automation upgrade: Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C061",
+    "name": "Emerson Shah",
+    "experience_years": 7,
+    "skills": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "HTML/CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Customer analytics dashboard delivery",
+        "details": "Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Design-system migration automation",
+        "details": "Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "MSc Data Science",
+    "summary": "Frontend Engineer with 7 years of experience in React, TypeScript, JavaScript; project experience includes customer analytics dashboard and design-system migration.",
+    "resume_text": "Emerson Shah frontend engineer with 7 years of experience. Skills: React, TypeScript, JavaScript, HTML/CSS, Git. Customer analytics dashboard delivery: Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation. Design-system migration automation: Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C062",
+    "name": "Finley Joshi",
+    "experience_years": 10,
+    "skills": [
+      "Vue.js",
+      "HTML/CSS",
+      "CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Retail storefront improvement",
+        "details": "Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Accessibility audit refresh",
+        "details": "Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "Frontend Developer with 10 years of experience in Vue.js, HTML/CSS, CSS; project experience includes retail storefront and accessibility audit.",
+    "resume_text": "Finley Joshi frontend developer with 10 years of experience. Skills: Vue.js, HTML/CSS, CSS, Git. Retail storefront improvement: Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation. Accessibility audit refresh: Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C063",
+    "name": "Reese Young",
+    "experience_years": 3,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "PostgreSQL"
+    ],
+    "projects": [
+      {
+        "name": "Inventory dashboard platform",
+        "details": "Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API monitoring support",
+        "details": "Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Applications",
+    "summary": "Full-Stack Developer with 3 years of experience in React, JavaScript, Node.js; project experience includes inventory dashboard and api monitoring.",
+    "resume_text": "Reese Young full-stack developer with 3 years of experience. Skills: React, JavaScript, Node.js, Express, PostgreSQL. Inventory dashboard platform: Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation. API monitoring support: Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C064",
+    "name": "Skyler Murphy",
+    "experience_years": 6,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "projects": [
+      {
+        "name": "Order processing API initiative",
+        "details": "Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Container deployment upgrade",
+        "details": "Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Computer Engineering",
+    "summary": "Backend Engineer with 6 years of experience in Python, FastAPI, PostgreSQL; project experience includes order processing api and container deployment.",
+    "resume_text": "Skyler Murphy backend engineer with 6 years of experience. Skills: Python, FastAPI, PostgreSQL, Docker, AWS. Order processing API initiative: Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation. Container deployment upgrade: Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C065",
+    "name": "Rowan James",
+    "experience_years": 10,
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Power BI",
+      "Excel",
+      "Communication",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Sales reporting delivery",
+        "details": "Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Operations dashboard automation",
+        "details": "Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Technology",
+    "summary": "Data Analyst with 10 years of experience in Python, SQL, Pandas; project experience includes sales reporting and operations dashboard.",
+    "resume_text": "Rowan James data analyst with 10 years of experience. Skills: Python, SQL, Pandas, Power BI, Excel, Communication, Git. Sales reporting delivery: Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation. Operations dashboard automation: Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C066",
+    "name": "Sage Sullivan",
+    "experience_years": 3,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "SQL",
+      "MLflow"
+    ],
+    "projects": [
+      {
+        "name": "Demand forecasting improvement",
+        "details": "Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Model tracking refresh",
+        "details": "Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Engineering",
+    "summary": "Machine Learning Engineer with 3 years of experience in Python, PyTorch, SQL; project experience includes demand forecasting and model tracking.",
+    "resume_text": "Sage Sullivan machine learning engineer with 3 years of experience. Skills: Python, PyTorch, SQL, MLflow. Demand forecasting improvement: Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation. Model tracking refresh: Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C067",
+    "name": "Dakota Hamilton",
+    "experience_years": 6,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux"
+    ],
+    "projects": [
+      {
+        "name": "Cloud environment setup platform",
+        "details": "Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Deployment reliability support",
+        "details": "Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Systems",
+    "summary": "Cloud Engineer with 6 years of experience in AWS, Docker, Kubernetes; project experience includes cloud environment setup and deployment reliability.",
+    "resume_text": "Dakota Hamilton cloud engineer with 6 years of experience. Skills: AWS, Docker, Kubernetes, Terraform, Linux. Cloud environment setup platform: Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation. Deployment reliability support: Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C068",
+    "name": "Kendall Mehta",
+    "experience_years": 9,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "Docker",
+      "JUnit"
+    ],
+    "projects": [
+      {
+        "name": "Customer service API initiative",
+        "details": "Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Database optimization upgrade",
+        "details": "Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Software Engineering",
+    "summary": "Java Backend Developer with 9 years of experience in Java, Spring Boot, SQL; project experience includes customer service api and database optimization.",
+    "resume_text": "Kendall Mehta java backend developer with 9 years of experience. Skills: Java, Spring Boot, SQL, Docker, JUnit. Customer service API initiative: Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation. Database optimization upgrade: Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C069",
+    "name": "Micah Sharma",
+    "experience_years": 3,
+    "skills": [
+      "Python",
+      "Selenium",
+      "pytest",
+      "API Testing",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Regression test suite delivery",
+        "details": "Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API quality checks automation",
+        "details": "Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Business Analytics",
+    "summary": "QA Automation Engineer with 3 years of experience in Python, Selenium, pytest; project experience includes regression test suite and api quality checks.",
+    "resume_text": "Micah Sharma qa automation engineer with 3 years of experience. Skills: Python, Selenium, pytest, API Testing, Git. Regression test suite delivery: Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation. API quality checks automation: Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C070",
+    "name": "Logan Cooper",
+    "experience_years": 6,
+    "skills": [
+      "Kotlin",
+      "Java",
+      "REST APIs",
+      "Git",
+      "Redis"
+    ],
+    "projects": [
+      {
+        "name": "Mobile booking app improvement",
+        "details": "Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Offline handling refresh",
+        "details": "Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "Mobile Developer with 6 years of experience in Kotlin, Java, REST APIs; project experience includes mobile booking app and offline handling.",
+    "resume_text": "Logan Cooper mobile developer with 6 years of experience. Skills: Kotlin, Java, REST APIs, Git, Redis. Mobile booking app improvement: Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation. Offline handling refresh: Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C071",
+    "name": "Ari Kelly",
+    "experience_years": 9,
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "A/B Testing",
+      "Excel"
+    ],
+    "projects": [
+      {
+        "name": "Funnel analysis platform",
+        "details": "Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Experiment report support",
+        "details": "Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Software Engineering",
+    "summary": "Product Analyst with 9 years of experience in SQL, Python, Tableau; project experience includes funnel analysis and experiment report.",
+    "resume_text": "Ari Kelly product analyst with 9 years of experience. Skills: SQL, Python, Tableau, A/B Testing, Excel. Funnel analysis platform: Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation. Experiment report support: Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C072",
+    "name": "Noel Hughes",
+    "experience_years": 2,
+    "skills": [
+      "Linux",
+      "Docker",
+      "GitHub Actions",
+      "AWS",
+      "Bash",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "CI pipeline initiative",
+        "details": "Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Release automation upgrade",
+        "details": "Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Statistics",
+    "summary": "DevOps Engineer with 2 years of experience in Linux, Docker, GitHub Actions; project experience includes ci pipeline and release automation.",
+    "resume_text": "Noel Hughes devops engineer with 2 years of experience. Skills: Linux, Docker, GitHub Actions, AWS, Bash, Git. CI pipeline initiative: Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation. Release automation upgrade: Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C073",
+    "name": "Payton Myers",
+    "experience_years": 6,
+    "skills": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "HTML/CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Customer analytics dashboard delivery",
+        "details": "Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Design-system migration automation",
+        "details": "Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Systems",
+    "summary": "Frontend Engineer with 6 years of experience in React, TypeScript, JavaScript; project experience includes customer analytics dashboard and design-system migration.",
+    "resume_text": "Payton Myers frontend engineer with 6 years of experience. Skills: React, TypeScript, JavaScript, HTML/CSS, Git. Customer analytics dashboard delivery: Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation. Design-system migration automation: Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C074",
+    "name": "Remy Das",
+    "experience_years": 9,
+    "skills": [
+      "Vue.js",
+      "HTML/CSS",
+      "CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Retail storefront improvement",
+        "details": "Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Accessibility audit refresh",
+        "details": "Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Software Engineering",
+    "summary": "Frontend Developer with 9 years of experience in Vue.js, HTML/CSS, CSS; project experience includes retail storefront and accessibility audit.",
+    "resume_text": "Remy Das frontend developer with 9 years of experience. Skills: Vue.js, HTML/CSS, CSS, Git. Retail storefront improvement: Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation. Accessibility audit refresh: Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C075",
+    "name": "Shiloh Jenkins",
+    "experience_years": 2,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Jest"
+    ],
+    "projects": [
+      {
+        "name": "Inventory dashboard platform",
+        "details": "Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API monitoring support",
+        "details": "Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Business Analytics",
+    "summary": "Full-Stack Developer with 2 years of experience in React, JavaScript, Node.js; project experience includes inventory dashboard and api monitoring.",
+    "resume_text": "Shiloh Jenkins full-stack developer with 2 years of experience. Skills: React, JavaScript, Node.js, Express, PostgreSQL, Jest. Inventory dashboard platform: Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation. API monitoring support: Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C076",
+    "name": "Tatum Reed",
+    "experience_years": 5,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "projects": [
+      {
+        "name": "Order processing API initiative",
+        "details": "Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Container deployment upgrade",
+        "details": "Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Technology",
+    "summary": "Backend Engineer with 5 years of experience in Python, FastAPI, PostgreSQL; project experience includes order processing api and container deployment.",
+    "resume_text": "Tatum Reed backend engineer with 5 years of experience. Skills: Python, FastAPI, PostgreSQL, Docker, AWS. Order processing API initiative: Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation. Container deployment upgrade: Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C077",
+    "name": "Bailey Bell",
+    "experience_years": 9,
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Power BI",
+      "Excel"
+    ],
+    "projects": [
+      {
+        "name": "Sales reporting delivery",
+        "details": "Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Operations dashboard automation",
+        "details": "Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Engineering",
+    "summary": "Data Analyst with 9 years of experience in Python, SQL, Pandas; project experience includes sales reporting and operations dashboard.",
+    "resume_text": "Bailey Bell data analyst with 9 years of experience. Skills: Python, SQL, Pandas, Power BI, Excel. Sales reporting delivery: Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation. Operations dashboard automation: Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C078",
+    "name": "Ellis Powell",
+    "experience_years": 2,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "SQL",
+      "MLflow"
+    ],
+    "projects": [
+      {
+        "name": "Demand forecasting improvement",
+        "details": "Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Model tracking refresh",
+        "details": "Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "MSc Data Science",
+    "summary": "Machine Learning Engineer with 2 years of experience in Python, PyTorch, SQL; project experience includes demand forecasting and model tracking.",
+    "resume_text": "Ellis Powell machine learning engineer with 2 years of experience. Skills: Python, PyTorch, SQL, MLflow. Demand forecasting improvement: Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation. Model tracking refresh: Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C079",
+    "name": "Jules Diaz",
+    "experience_years": 5,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Cloud environment setup platform",
+        "details": "Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Deployment reliability support",
+        "details": "Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "Cloud Engineer with 5 years of experience in AWS, Docker, Kubernetes; project experience includes cloud environment setup and deployment reliability.",
+    "resume_text": "Jules Diaz cloud engineer with 5 years of experience. Skills: AWS, Docker, Kubernetes, Terraform, Linux, Git. Cloud environment setup platform: Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation. Deployment reliability support: Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C080",
+    "name": "Marley Nair",
+    "experience_years": 8,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "Docker",
+      "JUnit",
+      "REST APIs"
+    ],
+    "projects": [
+      {
+        "name": "Customer service API initiative",
+        "details": "Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Database optimization upgrade",
+        "details": "Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Applications",
+    "summary": "Java Backend Developer with 8 years of experience in Java, Spring Boot, SQL; project experience includes customer service api and database optimization.",
+    "resume_text": "Marley Nair java backend developer with 8 years of experience. Skills: Java, Spring Boot, SQL, Docker, JUnit, REST APIs. Customer service API initiative: Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation. Database optimization upgrade: Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C081",
+    "name": "Nico Turner",
+    "experience_years": 2,
+    "skills": [
+      "Python",
+      "Selenium",
+      "pytest",
+      "API Testing",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Regression test suite delivery",
+        "details": "Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API quality checks automation",
+        "details": "Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Computer Engineering",
+    "summary": "QA Automation Engineer with 2 years of experience in Python, Selenium, pytest; project experience includes regression test suite and api quality checks.",
+    "resume_text": "Nico Turner qa automation engineer with 2 years of experience. Skills: Python, Selenium, pytest, API Testing, Git. Regression test suite delivery: Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation. API quality checks automation: Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C082",
+    "name": "Alden Bennett",
+    "experience_years": 5,
+    "skills": [
+      "Kotlin",
+      "Java",
+      "REST APIs",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Mobile booking app improvement",
+        "details": "Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Offline handling refresh",
+        "details": "Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Technology",
+    "summary": "Mobile Developer with 5 years of experience in Kotlin, Java, REST APIs; project experience includes mobile booking app and offline handling.",
+    "resume_text": "Alden Bennett mobile developer with 5 years of experience. Skills: Kotlin, Java, REST APIs, Git. Mobile booking app improvement: Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation. Offline handling refresh: Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C083",
+    "name": "Blair Price",
+    "experience_years": 8,
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "A/B Testing",
+      "Excel"
+    ],
+    "projects": [
+      {
+        "name": "Funnel analysis platform",
+        "details": "Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Experiment report support",
+        "details": "Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Engineering",
+    "summary": "Product Analyst with 8 years of experience in SQL, Python, Tableau; project experience includes funnel analysis and experiment report.",
+    "resume_text": "Blair Price product analyst with 8 years of experience. Skills: SQL, Python, Tableau, A/B Testing, Excel. Funnel analysis platform: Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation. Experiment report support: Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C084",
+    "name": "Dylan Watson",
+    "experience_years": 1,
+    "skills": [
+      "Linux",
+      "Docker",
+      "GitHub Actions",
+      "AWS",
+      "Bash"
+    ],
+    "projects": [
+      {
+        "name": "CI pipeline initiative",
+        "details": "Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Release automation upgrade",
+        "details": "Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "MSc Data Science",
+    "summary": "DevOps Engineer with 1 years of experience in Linux, Docker, GitHub Actions; project experience includes ci pipeline and release automation.",
+    "resume_text": "Dylan Watson devops engineer with 1 years of experience. Skills: Linux, Docker, GitHub Actions, AWS, Bash. CI pipeline initiative: Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation. Release automation upgrade: Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C085",
+    "name": "Elliot Russell",
+    "experience_years": 5,
+    "skills": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "HTML/CSS",
+      "Git",
+      "Agile"
+    ],
+    "projects": [
+      {
+        "name": "Customer analytics dashboard delivery",
+        "details": "Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Design-system migration automation",
+        "details": "Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Software Engineering",
+    "summary": "Frontend Engineer with 5 years of experience in React, TypeScript, JavaScript; project experience includes customer analytics dashboard and design-system migration.",
+    "resume_text": "Elliot Russell frontend engineer with 5 years of experience. Skills: React, TypeScript, JavaScript, HTML/CSS, Git, Agile. Customer analytics dashboard delivery: Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation. Design-system migration automation: Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C086",
+    "name": "Frankie Graham",
+    "experience_years": 8,
+    "skills": [
+      "Vue.js",
+      "HTML/CSS",
+      "CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Retail storefront improvement",
+        "details": "Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Accessibility audit refresh",
+        "details": "Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Business Analytics",
+    "summary": "Frontend Developer with 8 years of experience in Vue.js, HTML/CSS, CSS; project experience includes retail storefront and accessibility audit.",
+    "resume_text": "Frankie Graham frontend developer with 8 years of experience. Skills: Vue.js, HTML/CSS, CSS, Git. Retail storefront improvement: Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation. Accessibility audit refresh: Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C087",
+    "name": "Gray Kapoor",
+    "experience_years": 1,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "PostgreSQL"
+    ],
+    "projects": [
+      {
+        "name": "Inventory dashboard platform",
+        "details": "Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API monitoring support",
+        "details": "Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "Full-Stack Developer with 1 years of experience in React, JavaScript, Node.js; project experience includes inventory dashboard and api monitoring.",
+    "resume_text": "Gray Kapoor full-stack developer with 1 years of experience. Skills: React, JavaScript, Node.js, Express, PostgreSQL. Inventory dashboard platform: Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation. API monitoring support: Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C088",
+    "name": "Indigo Patel",
+    "experience_years": 4,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "projects": [
+      {
+        "name": "Order processing API initiative",
+        "details": "Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Container deployment upgrade",
+        "details": "Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Software Engineering",
+    "summary": "Backend Engineer with 4 years of experience in Python, FastAPI, PostgreSQL; project experience includes order processing api and container deployment.",
+    "resume_text": "Indigo Patel backend engineer with 4 years of experience. Skills: Python, FastAPI, PostgreSQL, Docker, AWS. Order processing API initiative: Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation. Container deployment upgrade: Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C089",
+    "name": "Kai Bailey",
+    "experience_years": 8,
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Power BI",
+      "Excel"
+    ],
+    "projects": [
+      {
+        "name": "Sales reporting delivery",
+        "details": "Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Operations dashboard automation",
+        "details": "Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Statistics",
+    "summary": "Data Analyst with 8 years of experience in Python, SQL, Pandas; project experience includes sales reporting and operations dashboard.",
+    "resume_text": "Kai Bailey data analyst with 8 years of experience. Skills: Python, SQL, Pandas, Power BI, Excel. Sales reporting delivery: Built SQL reports and Python data-cleaning workflows. Contributed to implementation, testing, and technical documentation. Operations dashboard automation: Created dashboards to track service and delivery metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C090",
+    "name": "Lane Ross",
+    "experience_years": 1,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "SQL",
+      "MLflow",
+      "CI/CD"
+    ],
+    "projects": [
+      {
+        "name": "Demand forecasting improvement",
+        "details": "Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Model tracking refresh",
+        "details": "Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Systems",
+    "summary": "Machine Learning Engineer with 1 years of experience in Python, PyTorch, SQL; project experience includes demand forecasting and model tracking.",
+    "resume_text": "Lane Ross machine learning engineer with 1 years of experience. Skills: Python, PyTorch, SQL, MLflow, CI/CD. Demand forecasting improvement: Trained and evaluated forecasting models using operational data. Contributed to implementation, testing, and technical documentation. Model tracking refresh: Recorded experiment parameters and model metrics. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C091",
+    "name": "Milan Flores",
+    "experience_years": 4,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux"
+    ],
+    "projects": [
+      {
+        "name": "Cloud environment setup platform",
+        "details": "Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Deployment reliability support",
+        "details": "Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Software Engineering",
+    "summary": "Cloud Engineer with 4 years of experience in AWS, Docker, Kubernetes; project experience includes cloud environment setup and deployment reliability.",
+    "resume_text": "Milan Flores cloud engineer with 4 years of experience. Skills: AWS, Docker, Kubernetes, Terraform, Linux. Cloud environment setup platform: Automated cloud infrastructure provisioning with Terraform. Contributed to implementation, testing, and technical documentation. Deployment reliability support: Added container health checks and incident response notes. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C092",
+    "name": "Oakley Ford",
+    "experience_years": 7,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "Docker",
+      "JUnit"
+    ],
+    "projects": [
+      {
+        "name": "Customer service API initiative",
+        "details": "Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Database optimization upgrade",
+        "details": "Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Business Analytics",
+    "summary": "Java Backend Developer with 7 years of experience in Java, Spring Boot, SQL; project experience includes customer service api and database optimization.",
+    "resume_text": "Oakley Ford java backend developer with 7 years of experience. Skills: Java, Spring Boot, SQL, Docker, JUnit. Customer service API initiative: Implemented Spring Boot REST endpoints and unit tests. Contributed to implementation, testing, and technical documentation. Database optimization upgrade: Improved pagination after reviewing SQL query plans. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C093",
+    "name": "Phoenix Rao",
+    "experience_years": 1,
+    "skills": [
+      "Python",
+      "Selenium",
+      "pytest",
+      "API Testing",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Regression test suite delivery",
+        "details": "Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API quality checks automation",
+        "details": "Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "QA Automation Engineer with 1 years of experience in Python, Selenium, pytest; project experience includes regression test suite and api quality checks.",
+    "resume_text": "Phoenix Rao qa automation engineer with 1 years of experience. Skills: Python, Selenium, pytest, API Testing, Git. Regression test suite delivery: Automated browser regression scenarios for core user journeys. Contributed to implementation, testing, and technical documentation. API quality checks automation: Added reusable API assertions and test fixtures. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C094",
+    "name": "River Patterson",
+    "experience_years": 4,
+    "skills": [
+      "Kotlin",
+      "Java",
+      "REST APIs",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Mobile booking app improvement",
+        "details": "Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Offline handling refresh",
+        "details": "Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Engineering",
+    "summary": "Mobile Developer with 4 years of experience in Kotlin, Java, REST APIs; project experience includes mobile booking app and offline handling.",
+    "resume_text": "River Patterson mobile developer with 4 years of experience. Skills: Kotlin, Java, REST APIs, Git. Mobile booking app improvement: Implemented Android booking flows and integrated REST APIs. Contributed to implementation, testing, and technical documentation. Offline handling refresh: Added loading, retry, and error states for poor connections. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C095",
+    "name": "Salem Perry",
+    "experience_years": 7,
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "A/B Testing",
+      "Excel",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Funnel analysis platform",
+        "details": "Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Experiment report support",
+        "details": "Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "MSc Data Science",
+    "summary": "Product Analyst with 7 years of experience in SQL, Python, Tableau; project experience includes funnel analysis and experiment report.",
+    "resume_text": "Salem Perry product analyst with 7 years of experience. Skills: SQL, Python, Tableau, A/B Testing, Excel, Communication. Funnel analysis platform: Analyzed conversion funnels and presented findings to stakeholders. Contributed to implementation, testing, and technical documentation. Experiment report support: Summarized A/B test outcomes and data limitations. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C096",
+    "name": "Teagan Cook",
+    "experience_years": 10,
+    "skills": [
+      "Linux",
+      "Docker",
+      "GitHub Actions",
+      "AWS",
+      "Bash"
+    ],
+    "projects": [
+      {
+        "name": "CI pipeline initiative",
+        "details": "Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Release automation upgrade",
+        "details": "Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Science",
+    "summary": "DevOps Engineer with 10 years of experience in Linux, Docker, GitHub Actions; project experience includes ci pipeline and release automation.",
+    "resume_text": "Teagan Cook devops engineer with 10 years of experience. Skills: Linux, Docker, GitHub Actions, AWS, Bash. CI pipeline initiative: Built CI workflows to run tests and package releases. Contributed to implementation, testing, and technical documentation. Release automation upgrade: Automated deployment checks and improved release documentation. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C097",
+    "name": "Uma Long",
+    "experience_years": 4,
+    "skills": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "HTML/CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Customer analytics dashboard delivery",
+        "details": "Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Design-system migration automation",
+        "details": "Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Applications",
+    "summary": "Frontend Engineer with 4 years of experience in React, TypeScript, JavaScript; project experience includes customer analytics dashboard and design-system migration.",
+    "resume_text": "Uma Long frontend engineer with 4 years of experience. Skills: React, TypeScript, JavaScript, HTML/CSS, Git. Customer analytics dashboard delivery: Built accessible React dashboards and reusable TypeScript components. Contributed to implementation, testing, and technical documentation. Design-system migration automation: Improved component consistency and added UI tests. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C098",
+    "name": "Val Hayes",
+    "experience_years": 7,
+    "skills": [
+      "Vue.js",
+      "HTML/CSS",
+      "CSS",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Retail storefront improvement",
+        "details": "Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Accessibility audit refresh",
+        "details": "Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BEng Computer Engineering",
+    "summary": "Frontend Developer with 7 years of experience in Vue.js, HTML/CSS, CSS; project experience includes retail storefront and accessibility audit.",
+    "resume_text": "Val Hayes frontend developer with 7 years of experience. Skills: Vue.js, HTML/CSS, CSS, Git. Retail storefront improvement: Built responsive product pages and improved mobile navigation. Contributed to implementation, testing, and technical documentation. Accessibility audit refresh: Resolved keyboard navigation and color-contrast issues. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C099",
+    "name": "Winter Iyer",
+    "experience_years": 10,
+    "skills": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "PostgreSQL"
+    ],
+    "projects": [
+      {
+        "name": "Inventory dashboard platform",
+        "details": "Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "API monitoring support",
+        "details": "Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Information Technology",
+    "summary": "Full-Stack Developer with 10 years of experience in React, JavaScript, Node.js; project experience includes inventory dashboard and api monitoring.",
+    "resume_text": "Winter Iyer full-stack developer with 10 years of experience. Skills: React, JavaScript, Node.js, Express, PostgreSQL. Inventory dashboard platform: Built React inventory screens backed by Node.js APIs and PostgreSQL. Contributed to implementation, testing, and technical documentation. API monitoring support: Added request logging and improved error handling. Collaborated with teammates to review outcomes and address defects."
+  },
+  {
+    "candidate_id": "C100",
+    "name": "Yael Coleman",
+    "experience_years": 3,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Redis",
+      "Git"
+    ],
+    "projects": [
+      {
+        "name": "Order processing API initiative",
+        "details": "Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation."
+      },
+      {
+        "name": "Container deployment upgrade",
+        "details": "Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+      }
+    ],
+    "education": "BSc Computer Engineering",
+    "summary": "Backend Engineer with 3 years of experience in Python, FastAPI, PostgreSQL; project experience includes order processing api and container deployment.",
+    "resume_text": "Yael Coleman backend engineer with 3 years of experience. Skills: Python, FastAPI, PostgreSQL, Docker, AWS, Redis, Git. Order processing API initiative: Developed FastAPI endpoints and PostgreSQL queries. Contributed to implementation, testing, and technical documentation. Container deployment upgrade: Containerized services and documented AWS deployment steps. Collaborated with teammates to review outcomes and address defects."
+  }
+]

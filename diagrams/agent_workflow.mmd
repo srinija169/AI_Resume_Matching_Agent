@@ -1,0 +1,16 @@
+flowchart TD
+    A([START / User message]) --> B[Parse intent and conversation]
+    B --> C[Extract or refine requirements]
+    C --> D[Search resume corpus with local TF-IDF RAG]
+    D --> E[Rank candidates with evidence and gaps]
+    E --> F[Generate report]
+    F --> G{Recruiter next action}
+    G -->|New role| C
+    G -->|Refine criteria| C
+    G -->|Compare candidates| H[Side-by-side comparison]
+    G -->|Screen deeper| I[Deep analysis of prior top 10]
+    G -->|Interview questions| J[Generate screening questions]
+    H --> G
+    I --> K[Top 3 provisional recommendations]
+    J --> G
+    G -->|Finish| Z([END])
